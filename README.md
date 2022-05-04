@@ -1,0 +1,1 @@
+# Eye-Exercise In this exercise I was given starter code with one eye that followed the mouse around the screen. The goal was to put a second eye on the screen that also followed the eye. That was achived in the oneEye.html file.
